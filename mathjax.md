@@ -7,7 +7,9 @@ The most important thing to remember for using MathJax in GitHub Pages is to add
 
 This tells the browser to include the script I've put in `_includes/mathjax.html` in the home directory, which enables MathJax:
 
-``` {% include mathjax.html %} ```
+```
+{% include mathjax.html %} 
+```
 
 Once you do this, it's very simple to use MathJax with GitHub pages with markdown.
 
@@ -22,7 +24,9 @@ $$ \frac{1}{n^{2}} $$
 
 It's the same process for more complex formulae, such as 
 
-```$$ J(\theta) = \frac{1}{2m}(\sum_{i=1}^m(h_\theta (x^{(i)}) - y^{(i)})^2 + \lambda\sum_{j=1}^n\theta^2_j) $$```
+``` 
+$$ J(\theta) = \frac{1}{2m}(\sum_{i=1}^m(h_\theta (x^{(i)}) - y^{(i)})^2 + \lambda\sum_{j=1}^n\theta^2_j) $$ 
+```
 
 Rendered as:
 
@@ -39,3 +43,11 @@ $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 * [MathJax](http://docs.mathjax.org/en/latest/)
 * [Setting up MathJax on GitHub Pages by Gianluca Casati](http://g14n.info/2014/09/math-on-github-pages/)
 
+```matlab
+y = averaging_filter_mex(x);
+% Plot the result when the MEX function is applied to the noisy sine wave.
+% The 'hold on' command ensures that the plot uses the same figure window as
+% the previous plot command.
+hold on;
+plot(y, 'blue');
+```
