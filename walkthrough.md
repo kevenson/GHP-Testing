@@ -27,11 +27,9 @@ To get started using git, [make sure you have it installed on your machine](http
 
 * Still in terminal, type `git clone ` and copy the URL from your GitHub repo (e.g. `git clone https://github.com/kevenson/GHP-Tutorial.git`). Hit enter, and you should see your project repo being copied to your local machine. In my case, this would be copied to: `/Users/kevenson/Projects/GHP-Tutorial`
 
->From here, you can navigate your project directory and add, delete, and modify your project files as you like, using your preferred applications.
+* From here, you can navigate your project directory and add, delete, and modify your project files as you like, using your preferred applications.
 
-* Once you're ready to push your local changes back up to your GitHub repository, go back to the terminal application, ensure you are in your project directory (e.g. `/Users/kevenson/Projects/GHP-Tutorial` **NOT** `/Users/kevenson/Projects/`) and execute the command `git status`.
-
-This should show you the status of the repository--if you have added or modified files, you should see these changes noted here.
+* Once you're ready to push your local changes back up to your GitHub repository, go back to the terminal application, ensure you are in your project directory (e.g. `/Users/kevenson/Projects/GHP-Tutorial` **NOT** `/Users/kevenson/Projects/`) and execute the command `git status`. This should show you the status of the repository--if you have added or modified files, you should see these changes noted here.
 
 * To add new files and changes to be committed, execute `git add *`. Note that this will add *everything* so if you only want to add two specific files you should use `git add [filename1] [filename2]` instead. Execute `git status` again to ensure you've added everything you need.
 
