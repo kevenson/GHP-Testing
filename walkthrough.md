@@ -3,7 +3,7 @@
 1. Login to [GitHub](https://github.com)
 2. Search for "GHP-Tutorial", the name of this repository, or follow [this direct link](https://github.com/kevenson/GHP-Tutorial).
 3. Open the repository page, and click the "Fork" button on the upper right of the screen. This should create a copy of this repo in your own GitHub account.
-4. Once the copy is complete, you can click the "Settings" tab to change the name of your new repo if you choose. We'll come back to this tab later on to set up GitHub Pages.
+4. Once the copy is complete, you can click the "Settings" tab to change the name of your new repo if you choose. Note that you can also use this tab to set up GitHub Pages for your project if you choose.
 
 #### You now have your own copy of this repository.
 
@@ -22,12 +22,20 @@ It takes some getting used to, but once you have mastered a few basic commands, 
 To get started using git, [make sure you have it installed on your machine](https://git-scm.com/downloads) and follow these simple steps:
 
 1. Go to the homepage of your repo in GitHub, and click the green "Clone or download" button on the right. Copy the HTTPS link.
-2. On your computer, open git bash (Windows) or the Terminal (Mac).
+2. On your computer, open a terminal program, preferably either git bash (Windows) or Terminal (Mac).
 3. Using the terminal, navigate  to the location on your computer to which you would like to download your project.
->Hint: use the command "cd" to change your directory. For example, to navigate to `/Users/kevenson/Projects/GHP-Tutorial` I would type `cd /Users/kevenson/Projects/GHP-Tutorial` and hit enter). For more help with navigation, [see this tutorial](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855).
+>Hint: use the command "cd" to change your directory. For example, let's say I want to clone my project into my "Projects" folder. To navigate to `/Users/kevenson/Projects/` I would type `cd /Users/kevenson/Projects/` and hit enter). For more help with navigation, [see this tutorial](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855).
 
-4. Still in terminal, type `git clone ` and copy the URL from your GitHub repo (e.g. `git clone https://github.com/kevenson/GHP-Tutorial.git`). Hit enter, and you should see your project repo being copied to your local machine.
+4. Still in terminal, type `git clone ` and copy the URL from your GitHub repo (e.g. `git clone https://github.com/kevenson/GHP-Tutorial.git`). Hit enter, and you should see your project repo being copied to your local machine. In my case, this would be copied to: `/Users/kevenson/Projects/GHP-Tutorial`
 
-From here, you can add, delete, and modify your project files as you like, using your preferred applications.
+From here, you can navigate your project directory and add, delete, and modify your project files as you like, using your preferred applications.
 
-5. Once you're ready to push your local changes back up to your GitHub repository, go back to the terminal application, and type `git status`. This should show you the status of the current  
+5. Once you're ready to push your local changes back up to your GitHub repository, go back to the terminal application, ensure you are in your project directory (e.g. `/Users/kevenson/Projects/GHP-Tutorial` **NOT** `/Users/kevenson/Projects/`) and execute the command `git status`.
+
+This should show you the status of the repository--if you have added or modified files, you should see these changes noted here.
+
+6. To add new files and changes to be committed, execute `git add *`. Note that this will add *everything* so if you only want to add two specific files you should use `git add [filename1] [filename2]` instead. Execute `git status` again to ensure you've added everything you need.
+
+7. Now, to commit these changes that we've just added, execute `git commit -m "my message here"`, changing the message text to a short message that is meaningful to you (e.g. "added a new contact page"). This helps you and your collaborators make sense of all the changes to your project, and potentially roll them back if something doesn't work the way you want.
+
+8. Now we're ready to push these changes up to Github. Execute `git push origin master` and you should see git pushing your changes up to GitHub. Note that you will be prompted to login to GitHub if you are on a shared machine and/or have not setup a [credential helper](https://help.github.com/articles/caching-your-github-password-in-git/), [ssh keys](https://help.github.com/articles/about-ssh/) or another authentication method.
