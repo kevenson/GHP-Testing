@@ -43,3 +43,8 @@ $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 * [MathJax](http://docs.mathjax.org/en/latest/)
 * [Setting up MathJax on GitHub Pages by Gianluca Casati](http://g14n.info/2014/09/math-on-github-pages/)
 
+```matlab
+A = randi(10,5); %Random 5×5 matrix containing integers ranging from 0 to 10
+B = rand(10,1);  %Random 10×1 vector containing values ranging from 0 to 1
+C = B(A);        %New 5×5 matrix consisting of elements from B, indexed using A
+```
