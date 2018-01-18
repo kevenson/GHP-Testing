@@ -27,4 +27,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
