@@ -39,7 +39,7 @@ $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 * [MathJax](http://docs.mathjax.org/en/latest/)
 * [Setting up MathJax on GitHub Pages by Gianluca Casati](http://g14n.info/2014/09/math-on-github-pages/)
 
-```Matlab
+```matlab
 % y = averaging_filter(x)
 % Take an input vector signal 'x' and produce an output vector signal 'y' with
 % same type and shape as 'x' but filtered.
