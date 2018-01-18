@@ -6,10 +6,10 @@ Creating websites for your projects is easy with GitHub Pages. This site is an e
 
 ### Creating a project wesite with GitHub Pages
 To create a GitHub pages site for a particular project, you:
-1. login to your GitHub account and create a new repository, or go to an existing one.
+1. login to your GitHub account and create a new repository, or go to an existing one
 2. click on the Settings tab on the upper right of the project page
-3. scroll down to the GitHub Pages section. Press Choose a theme to select a Jekyll theme, or simply select the Master branch as the source if you'd like to build your site from scratch.
-4. Now you can use the online editor to add to maintain and preview the content for your website in Markdown files, or make changes locally and push them to your project repo via git.
+3. scroll down to the GitHub Pages section. Press Choose a theme to select a Jekyll theme, or simply select the Master branch as the source if you'd like to build your site from scratch
+4. Now you can use the online editor to add to maintain and preview the content for your website in Markdown files, or make changes locally and push them to your project repo via git
 
 ##### JUST REMEMBER TO COMMIT YOUR CHANGES WHEN YOU'RE DONE!
 
