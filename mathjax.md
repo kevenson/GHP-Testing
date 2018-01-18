@@ -43,11 +43,3 @@ $$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
 * [MathJax](http://docs.mathjax.org/en/latest/)
 * [Setting up MathJax on GitHub Pages by Gianluca Casati](http://g14n.info/2014/09/math-on-github-pages/)
 
-```matlab
-y = averaging_filter_mex(x);
-% Plot the result when the MEX function is applied to the noisy sine wave.
-% The 'hold on' command ensures that the plot uses the same figure window as
-% the previous plot command.
-hold on;
-plot(y, 'blue');
-```
