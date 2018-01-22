@@ -3,6 +3,8 @@
 
 ![vector1](/vectors2018.png)
 
+test
+
 Rewriting equation \ref{eig} separately for each of the two eigenvectors and eigenvalues yields
 $$ \mathbf{H}\vec{\alpha}=\lambda_{\alpha}\vec{\alpha}\label{Hspin1}\ \mathbf{H}\vec{\beta}=\lambda_{\beta}\vec{\beta}\label{Hspin2} $$
 
