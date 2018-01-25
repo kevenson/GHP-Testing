@@ -9,8 +9,8 @@
 
     - Applications
 
-
 2. A Summary of Some of the Key Ideas in Quantum Theory
+
     i. First key idea
     ii. Second key idea
 
