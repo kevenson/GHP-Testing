@@ -5,15 +5,11 @@
 
 test
 
-1. Vectors and Quantum States
+1. [Vectors and Quantum States](/Vectors-and-Quantum-States.md)
 
-    - Applications
+    i. [Applications](/Applications.md)
 
-2. A Summary of Some of the Key Ideas in Quantum Theory
-
-    i. First key idea
-    
-    ii. Second key idea
+2. [A Summary of Some of the Key Ideas in Quantum Theory](/summary.md)
 
 3. The most often encountered....
 
