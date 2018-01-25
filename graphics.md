@@ -10,6 +10,8 @@ testing nested lists...
 1. [Vectors and Quantum States](/Vectors-and-Quantum-States.md)
 
     i. [Applications](/Applications.md)
+    
+    ii. [Other Cool Stuff](/Applications.md)
 
 2. [A Summary of Some of the Key Ideas in Quantum Theory](/summary.md)
 
