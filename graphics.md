@@ -20,3 +20,22 @@
    > No man is lonely eating spaghetti; it requires so much attention.
 
    Bon appetit!
+
+
+1. Ingredients
+
+    1. spaghetti
+    2. marinara sauce
+    3. salt
+
+2. Cooking
+
+   Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is **tender**.
+
+3. Serve
+
+   Drain the pasta on a plate. Add heated sauce. 
+
+   > No man is lonely eating spaghetti; it requires so much attention.
+
+   Bon appetit!
