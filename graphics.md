@@ -3,13 +3,20 @@
 
 ![vector1](/vectors2018.png)
 
-test
+1. Ingredients
 
-Rewriting equation \ref{eig} separately for each of the two eigenvectors and eigenvalues yields
-$$ \mathbf{H}\vec{\alpha}=\lambda_{\alpha}\vec{\alpha}\label{Hspin1}\ \mathbf{H}\vec{\beta}=\lambda_{\beta}\vec{\beta}\label{Hspin2} $$
+    - spaghetti
+    - marinara sauce
+    - salt
 
-Rewriting equation $$ \ref{eig} $$ separately for each of the two eigenvectors and eigenvalues yields
+2. Cooking
 
-$$ \begin{equation} \mathbf{H}\vec{\alpha}=\lambda_{\alpha}\vec{\alpha}\label{Hspin1}\ \mathbf{H}\vec{\beta}=\lambda_{\beta}\vec{\beta}\label{Hspin2} \end{equation} $$
+   Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is **tender**.
 
-$$ \ref{Hspin1} $$
+3. Serve
+
+   Drain the pasta on a plate. Add heated sauce. 
+
+   > No man is lonely eating spaghetti; it requires so much attention.
+
+   Bon appetit!
