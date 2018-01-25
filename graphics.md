@@ -9,6 +9,7 @@
 
     - Applications
 
+
 2. A Summary of Some of the Key Ideas in Quantum Theory
 
 3. The most often encountered....
