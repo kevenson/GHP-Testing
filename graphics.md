@@ -13,7 +13,7 @@ testing nested lists...
     
     ii. [Other Cool Stuff](/Applications.md)
 
-2. [A Summary of Some of the Key Ideas in Quantum Theory](/summary.md)
+3. [A Summary of Some of the Key Ideas in Quantum Theory](/summary.md)
 
     ii. test
     
@@ -23,9 +23,9 @@ testing nested lists...
     
     i. test
 
-3. The most often encountered....
+5. The most often encountered....
 
-4. The time-dependent Schroedinger equation (TDSE) describes the time evolution of a quantum state. The equation in analytic form is
+10. The time-dependent Schroedinger equation (TDSE) describes the time evolution of a quantum state. The equation in analytic form is
 
     $$
        \hat{H}\Psi = i \hbar\frac{\partial{\Psi}}{\partial t}
