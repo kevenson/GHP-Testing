@@ -6,7 +6,6 @@
 testing nested lists...part 2
 
 
-
 1. [Vectors and Quantum States](/Vectors-and-Quantum-States.md)
 
     i. [Applications](/Applications.md)
@@ -15,13 +14,13 @@ testing nested lists...part 2
 
 3. [A Summary of Some of the Key Ideas in Quantum Theory](/summary.md)
 
-    ii. test
+    2. test
     
-    iii. test
+    3. test
     
-    iiii. test
+    4. test
     
-    i. test
+    1. test
 
 5. The most often encountered....
 
