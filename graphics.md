@@ -15,6 +15,14 @@ testing nested lists...
 
 2. [A Summary of Some of the Key Ideas in Quantum Theory](/summary.md)
 
+    ii. test
+    
+    iii. test
+    
+    iiii. test
+    
+    i. test
+
 3. The most often encountered....
 
 4. The time-dependent Schroedinger equation (TDSE) describes the time evolution of a quantum state. The equation in analytic form is
